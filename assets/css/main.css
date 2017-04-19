@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.parent-box {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  position: relative;
+}
+
+.mediun-box {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.small-box {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+
+.red {
+  background: red;
+}
+
+.purple {
+  background: purple;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.blue {
+  background: blue;
+}
+
+.green {
+  background: green;
+}
+
+.black {
+  background: black;
+}
